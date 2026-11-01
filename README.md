@@ -72,24 +72,6 @@ My engineering journey is defined by **hands-on execution** — whether it's cas
 
 ---
 
-## 🏆 Honors & Hackathons
-
-<details>
-<summary><b>🎖️ Click to expand competition honors & awards (7 Highlights)</b></summary>
-<br/>
-
-- 🥇 **1st Place** — *LOGICX*, ROBOGLITZ '26
-- 🥈 **2nd Place** — *PNEUCLUEMATICS*, ROBOGLITZ '26
-- 🥇 **1st Place** — *Tracker Monster*, SRISHTI2K23
-- 🥉 **3rd Place** — College Sumo Bot Challenge (VEX platform)
-- 🏅 **7th Place Nationally** — ISRO Robotics Challenge (IRoC-U 2024)
-- 🏅 **Top 12 Finalist** — Janatics National Automation Skill Challenge 2025 (Team Head)
-- 🏅 **Top 26 Finalist** — ISRO Robotics Challenge (IRoC-U 2025)
-
-</details>
-
----
-
 ## 💬 Connect With Me
 
 I am always excited to discuss robotics innovations, autonomous navigation, compliant mechanisms, and research collaborations!
