@@ -72,40 +72,6 @@ My engineering journey is defined by **hands-on execution** — whether it's cas
 
 ---
 
-## 🚀 Featured Engineering Projects
-
-### 🦾 [Soft Pneumatic Gripper (3-Finger)](https://github.com/Parthiban733/soft-pneumatic-gripper)
-*Bio-inspired silicone end-effector for fragile and irregular object handling.*
-- Designed parametric molds in Fusion 360 and developed a 2-stage casting protocol with **LSR-105 silicone**.
-- Characterized hyperelastic nonlinear behavior using a **3rd-order Yeoh constitutive model** in FEA.
-- Achieved **$1.28^\circ/\text{kPa}$** bending efficiency and **$>95\%$ grasp success rate** on 20 fragile object types (eggs, glassware, electronics).
-
-### 🤖 5-Bar Parallel Robot: Hardware-in-the-Loop Digital Twin
-*Real-time kinematics and digital twin for industrial planar parallel robots.*
-- Developed forward/inverse analytical kinematics and workspace reachability algorithms.
-- Built a continuous 3D collision-checking engine and integrated a **USB-to-CAN** interface for live closed-loop encoder feedback.
-
-### 🛸 GPS-Denied Autonomous Drone (ISRO IRoC-U 2025 Challenge)
-*Sub-2 kg autonomous multirotor for GPS-denied reconnaissance.*
-- Integrated **Cube Orange+** flight controller with **Raspberry Pi 5** companion computer over MAVLink UART.
-- Deployed **Intel RealSense T265 (VIO)** and **D500 LiDAR** under **ROS 2 Jazzy** for robust state estimation and local obstacle avoidance.
-
-<details>
-<summary><b>📂 View More Projects (Caterpillar Excavator & ISRO Planetary Rover)</b></summary>
-<br/>
-
-### 🚜 Caterpillar Autonomy Challenge 2026
-*Autonomous 4-wheeled excavation rover.*
-- Served as **Team Head**, leading end-to-end mechanical design, electrical integration, and soil excavation bucket mechanism.
-
-### 🪐 ISRO Rover Project (IRoC-U 2024 Challenge)
-*Planetary rover mechanical and sensor validation.*
-- Served as Technical Assistant; secured **7th Place nationally** across Indian engineering institutions.
-
-</details>
-
----
-
 ## 🏆 Honors & Hackathons
 
 <details>
