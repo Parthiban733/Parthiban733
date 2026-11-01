@@ -90,6 +90,10 @@ My engineering journey is defined by **hands-on execution** — whether it's cas
 - Integrated **Cube Orange+** flight controller with **Raspberry Pi 5** companion computer over MAVLink UART.
 - Deployed **Intel RealSense T265 (VIO)** and **D500 LiDAR** under **ROS 2 Jazzy** for robust state estimation and local obstacle avoidance.
 
+<details>
+<summary><b>📂 View More Projects (Caterpillar Excavator & ISRO Planetary Rover)</b></summary>
+<br/>
+
 ### 🚜 Caterpillar Autonomy Challenge 2026
 *Autonomous 4-wheeled excavation rover.*
 - Served as **Team Head**, leading end-to-end mechanical design, electrical integration, and soil excavation bucket mechanism.
@@ -98,9 +102,15 @@ My engineering journey is defined by **hands-on execution** — whether it's cas
 *Planetary rover mechanical and sensor validation.*
 - Served as Technical Assistant; secured **7th Place nationally** across Indian engineering institutions.
 
+</details>
+
 ---
 
 ## 🏆 Honors & Hackathons
+
+<details>
+<summary><b>🎖️ Click to expand competition honors & awards (7 Highlights)</b></summary>
+<br/>
 
 - 🥇 **1st Place** — *LOGICX*, ROBOGLITZ '26
 - 🥈 **2nd Place** — *PNEUCLUEMATICS*, ROBOGLITZ '26
@@ -109,6 +119,8 @@ My engineering journey is defined by **hands-on execution** — whether it's cas
 - 🏅 **7th Place Nationally** — ISRO Robotics Challenge (IRoC-U 2024)
 - 🏅 **Top 12 Finalist** — Janatics National Automation Skill Challenge 2025 (Team Head)
 - 🏅 **Top 26 Finalist** — ISRO Robotics Challenge (IRoC-U 2025)
+
+</details>
 
 ---
 
